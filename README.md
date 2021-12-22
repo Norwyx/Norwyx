@@ -1,5 +1,5 @@
 # Welcome!
-I'm a **16 years old** self taught **front-end developer** located in Colombia. Right now I'm looking forward to **back-end** development and **full-stack** development. My skills include **HTML, CSS (SASS), and JS.**
+My name is Manuel Salazar. I'm a **16 years old** self taught **front-end developer** located in Colombia. Right now I'm looking forward to **back-end** development and **full-stack** development. My skills include **HTML, CSS (SASS), and JS.**
 
 At the moment I'm learning **Boostrap 5** and **ReactJS** and open to **colaborate** in projects.
 ## Contact
