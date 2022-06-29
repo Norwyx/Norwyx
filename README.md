@@ -1,7 +1,7 @@
 # Welcome!
-My name is Manuel Salazar. I'm a **16 years old** self taught **front-end developer** located in Colombia. Right now I'm looking forward to **back-end** development and **full-stack** development. My skills include **HTML, CSS (SASS), and JS.**
+My name is Manuel Salazar, **self taught frontend developer** based in Medellín, Colombia. I love to build and design amazing things with web technologies. I mainly use HTML, CSS and Javascript. I'm open to work and cooperate in professional projects.
 
-At the moment I'm learning **Boostrap 5** and **ReactJS** and open to **colaborate** in projects.
 ## Contact
+- **Portfolio:** https://manuelsalazardev.netlify.app 
 - **Discord:** [Norwyx#0335](https://discord.com/users/400496351881986069)
 - **Email:** mannisuso@gmail.com
